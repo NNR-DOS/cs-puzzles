@@ -1,1 +1,1 @@
-# cs-puzzles
+# minify
